@@ -1,6 +1,9 @@
 # ppl-assignment-thunder-blade
 ppl-assignment-thunder-blade created by GitHub Classroom
 
+# Language:
+  java<br> 
+  
 # Tested on:
 Netbeans in Ubuntu 16.04<br>
 
