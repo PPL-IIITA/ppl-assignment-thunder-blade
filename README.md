@@ -18,6 +18,9 @@ $cd java main.main<br>
 
 # Documentation
   Open index.html inside Documentation Folder
+
+# ClassDiagrams
+  ClassDiagrams are in pdf format
   
 # Submission By:
   Arun Singhal : RIT2015034
