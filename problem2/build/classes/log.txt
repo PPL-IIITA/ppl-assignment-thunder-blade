@@ -1,0 +1,2380 @@
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: thunder-blade-logger
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl1  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl1 is commited to Boy4
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl2  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl2 is commited to Boy3
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl3  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl3 is commited to Boy5
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl4  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl4 is commited to Boy10
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl5  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl5 is commited to Boy43
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl6  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl6 is commited to Boy44
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl7  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl7 is commited to Boy18
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl8  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl8 is commited to Boy6
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl9  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl9 is commited to Boy1
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl10  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl10 is commited to Boy2
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl11  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl11 is commited to Boy7
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl12  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl12 is commited to Boy144
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl13  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl13 is commited to Boy9
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl14  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl14 is commited to Boy8
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl15  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl15 is commited to Boy25
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl16  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl16 is commited to Boy31
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl17  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl17 is commited to Boy11
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl18  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl18 is commited to Boy17
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl19  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl19 is commited to Boy75
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl20  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl20 is commited to Boy19
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl21  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl21 is commited to Boy29
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl22  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl22 is commited to Boy30
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl23  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl23 is commited to Boy39
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl24  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl24 is commited to Boy13
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl25  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl25 is commited to Boy103
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl26  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl26 is commited to Boy32
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl27  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl27 is commited to Boy64
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl28  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl28 is commited to Boy33
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl29  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl29 is commited to Boy36
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl30  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl30 is commited to Boy14
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl31  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl31 is commited to Boy42
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl32  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl32 is commited to Boy73
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl33  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl33 is commited to Boy28
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl34  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl34 is commited to Boy12
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl35  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl36  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl36 is commited to Boy16
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl37  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl37 is commited to Boy63
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl38  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl38 is commited to Boy35
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl39  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl39 is commited to Boy60
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl40  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl40 is commited to Boy72
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl41  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl41 is commited to Boy150
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl42  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl42 is commited to Boy47
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl43  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl43 is commited to Boy24
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl44  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl44 is commited to Boy48
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl45  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl45 is commited to Boy38
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl46  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl46 is commited to Boy23
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl47  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl47 is commited to Boy99
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl48  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl48 is commited to Boy26
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl49  is looking for a boyfriend 
+Feb 26, 2017 9:56:10 PM main.main main
+INFO: Girl49 is commited to Boy20
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: thunder-blade-logger
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy4 and Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy4 gifted Gift193 to Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy4 gifted Gift35 to Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy4 gifted Gift162 to Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy4 gifted Gift99 to Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy4 gifted Gift37 to Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy4 gifted Gift36 to Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy4 gifted Gift88 to Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy4 gifted Gift61 to Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy4 gifted Gift21 to Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy4 gifted Gift138 to Girl1
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy3 and Girl2
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy3 gifted Gift193 to Girl2
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy3 gifted Gift35 to Girl2
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy3 gifted Gift162 to Girl2
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy3 gifted Gift99 to Girl2
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy3 gifted Gift37 to Girl2
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy3 gifted Gift36 to Girl2
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy5 and Girl3
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy5 gifted Gift193 to Girl3
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy5 gifted Gift35 to Girl3
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy5 gifted Gift162 to Girl3
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy5 gifted Gift99 to Girl3
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy5 gifted Gift37 to Girl3
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy5 gifted Gift36 to Girl3
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy5 gifted Gift88 to Girl3
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy5 gifted Gift61 to Girl3
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy5 gifted Gift21 to Girl3
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy10 and Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy10 gifted Gift193 to Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy10 gifted Gift35 to Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy10 gifted Gift162 to Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy10 gifted Gift99 to Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy10 gifted Gift37 to Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy10 gifted Gift36 to Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy10 gifted Gift88 to Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy10 gifted Gift61 to Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy10 gifted Gift21 to Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy10 gifted Gift138 to Girl4
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy43 and Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift193 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift35 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift162 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift99 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift37 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift36 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift88 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift61 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift21 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift138 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy43 gifted Gift57 to Girl5
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy44 and Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy44 gifted Gift193 to Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy44 gifted Gift35 to Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy44 gifted Gift162 to Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy44 gifted Gift99 to Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy44 gifted Gift37 to Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy44 gifted Gift36 to Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy44 gifted Gift88 to Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy44 gifted Gift61 to Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy44 gifted Gift21 to Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy44 gifted Gift138 to Girl6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy18 and Girl7
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy18 gifted Gift193 to Girl7
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy18 gifted Gift35 to Girl7
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy18 gifted Gift162 to Girl7
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy18 gifted Gift99 to Girl7
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy18 gifted Gift37 to Girl7
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy18 gifted Gift36 to Girl7
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy6 and Girl8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy6 gifted Gift193 to Girl8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy6 gifted Gift35 to Girl8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy6 gifted Gift162 to Girl8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy6 gifted Gift99 to Girl8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy6 gifted Gift37 to Girl8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy6 gifted Gift36 to Girl8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy6 gifted Gift88 to Girl8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy6 gifted Gift61 to Girl8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy6 gifted Gift21 to Girl8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy1 and Girl9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy1 gifted Gift193 to Girl9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy1 gifted Gift35 to Girl9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy1 gifted Gift162 to Girl9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy1 gifted Gift99 to Girl9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy2 and Girl10
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy2 gifted Gift193 to Girl10
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy2 gifted Gift35 to Girl10
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy2 gifted Gift162 to Girl10
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy7 and Girl11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy7 gifted Gift193 to Girl11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy7 gifted Gift35 to Girl11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy7 gifted Gift162 to Girl11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy7 gifted Gift99 to Girl11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy7 gifted Gift37 to Girl11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy7 gifted Gift36 to Girl11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy7 gifted Gift88 to Girl11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy7 gifted Gift61 to Girl11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy7 gifted Gift21 to Girl11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy144 and Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift193 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift35 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift162 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift99 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift37 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift36 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift88 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift61 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift21 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift138 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy144 gifted Gift57 to Girl12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy9 and Girl13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy9 gifted Gift193 to Girl13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy9 gifted Gift35 to Girl13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy9 gifted Gift162 to Girl13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy9 gifted Gift99 to Girl13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy9 gifted Gift37 to Girl13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy9 gifted Gift36 to Girl13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy9 gifted Gift88 to Girl13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy8 and Girl14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy8 gifted Gift193 to Girl14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy8 gifted Gift35 to Girl14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy8 gifted Gift162 to Girl14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy8 gifted Gift99 to Girl14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy8 gifted Gift37 to Girl14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy8 gifted Gift36 to Girl14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy25 and Girl15
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy25 gifted Gift193 to Girl15
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy25 gifted Gift35 to Girl15
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy25 gifted Gift162 to Girl15
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy25 gifted Gift99 to Girl15
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy25 gifted Gift37 to Girl15
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy25 gifted Gift36 to Girl15
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy25 gifted Gift88 to Girl15
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy25 gifted Gift61 to Girl15
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy25 gifted Gift21 to Girl15
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy31 and Girl16
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy31 gifted Gift193 to Girl16
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy31 gifted Gift35 to Girl16
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy31 gifted Gift162 to Girl16
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy31 gifted Gift99 to Girl16
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy31 gifted Gift37 to Girl16
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy31 gifted Gift36 to Girl16
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy31 gifted Gift88 to Girl16
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy31 gifted Gift61 to Girl16
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy11 and Girl17
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy11 gifted Gift193 to Girl17
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy11 gifted Gift35 to Girl17
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy11 gifted Gift162 to Girl17
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy11 gifted Gift99 to Girl17
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy11 gifted Gift37 to Girl17
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy11 gifted Gift36 to Girl17
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy17 and Girl18
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy17 gifted Gift193 to Girl18
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy17 gifted Gift35 to Girl18
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy17 gifted Gift162 to Girl18
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy17 gifted Gift99 to Girl18
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy17 gifted Gift37 to Girl18
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy17 gifted Gift36 to Girl18
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy75 and Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift193 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift35 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift162 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift99 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift37 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift36 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift88 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift61 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift21 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift138 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy75 gifted Gift57 to Girl19
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy19 and Girl20
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy19 gifted Gift193 to Girl20
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy19 gifted Gift35 to Girl20
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy19 gifted Gift162 to Girl20
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy19 gifted Gift99 to Girl20
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy19 gifted Gift37 to Girl20
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy19 gifted Gift36 to Girl20
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy29 and Girl21
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy29 gifted Gift193 to Girl21
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy29 gifted Gift35 to Girl21
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy30 and Girl22
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy30 gifted Gift193 to Girl22
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy30 gifted Gift35 to Girl22
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy30 gifted Gift162 to Girl22
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy30 gifted Gift99 to Girl22
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy30 gifted Gift37 to Girl22
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy30 gifted Gift36 to Girl22
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy30 gifted Gift88 to Girl22
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy39 and Girl23
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy39 gifted Gift193 to Girl23
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy39 gifted Gift35 to Girl23
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy39 gifted Gift162 to Girl23
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy39 gifted Gift99 to Girl23
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy39 gifted Gift37 to Girl23
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy39 gifted Gift36 to Girl23
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy13 and Girl24
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy13 gifted Gift193 to Girl24
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy13 gifted Gift35 to Girl24
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy13 gifted Gift162 to Girl24
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy13 gifted Gift99 to Girl24
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy103 and Girl25
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy103 gifted Gift193 to Girl25
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy103 gifted Gift35 to Girl25
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy103 gifted Gift162 to Girl25
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy32 and Girl26
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy32 gifted Gift193 to Girl26
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy32 gifted Gift35 to Girl26
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy32 gifted Gift162 to Girl26
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy32 gifted Gift99 to Girl26
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy32 gifted Gift37 to Girl26
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy32 gifted Gift36 to Girl26
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy32 gifted Gift88 to Girl26
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy32 gifted Gift61 to Girl26
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy32 gifted Gift21 to Girl26
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy64 and Girl27
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy64 gifted Gift193 to Girl27
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy64 gifted Gift35 to Girl27
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy64 gifted Gift162 to Girl27
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy64 gifted Gift99 to Girl27
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy64 gifted Gift37 to Girl27
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy64 gifted Gift36 to Girl27
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy64 gifted Gift88 to Girl27
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy64 gifted Gift61 to Girl27
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy33 and Girl28
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy33 gifted Gift193 to Girl28
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy33 gifted Gift35 to Girl28
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy33 gifted Gift162 to Girl28
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy33 gifted Gift99 to Girl28
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy33 gifted Gift37 to Girl28
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy33 gifted Gift36 to Girl28
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy33 gifted Gift88 to Girl28
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy33 gifted Gift61 to Girl28
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy33 gifted Gift21 to Girl28
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy36 and Girl29
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy36 gifted Gift193 to Girl29
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy36 gifted Gift35 to Girl29
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy36 gifted Gift162 to Girl29
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy36 gifted Gift99 to Girl29
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy36 gifted Gift37 to Girl29
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy36 gifted Gift36 to Girl29
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy36 gifted Gift88 to Girl29
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy36 gifted Gift61 to Girl29
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy14 and Girl30
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy14 gifted Gift193 to Girl30
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy14 gifted Gift35 to Girl30
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy14 gifted Gift162 to Girl30
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy42 and Girl31
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy42 gifted Gift193 to Girl31
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy42 gifted Gift35 to Girl31
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy42 gifted Gift162 to Girl31
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy42 gifted Gift99 to Girl31
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy42 gifted Gift37 to Girl31
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy42 gifted Gift36 to Girl31
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy42 gifted Gift88 to Girl31
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy42 gifted Gift61 to Girl31
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy42 gifted Gift21 to Girl31
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy73 and Girl32
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy73 gifted Gift193 to Girl32
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy73 gifted Gift35 to Girl32
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy73 gifted Gift162 to Girl32
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy73 gifted Gift99 to Girl32
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy73 gifted Gift37 to Girl32
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy73 gifted Gift36 to Girl32
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy73 gifted Gift88 to Girl32
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy28 and Girl33
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy28 gifted Gift193 to Girl33
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy28 gifted Gift35 to Girl33
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy28 gifted Gift162 to Girl33
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy28 gifted Gift99 to Girl33
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy28 gifted Gift37 to Girl33
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy28 gifted Gift36 to Girl33
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy28 gifted Gift88 to Girl33
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy12 and Girl34
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy12 gifted Gift193 to Girl34
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy12 gifted Gift35 to Girl34
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy16 and Girl36
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy16 gifted Gift193 to Girl36
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy16 gifted Gift35 to Girl36
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy16 gifted Gift162 to Girl36
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy16 gifted Gift99 to Girl36
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy63 and Girl37
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy63 gifted Gift193 to Girl37
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy63 gifted Gift35 to Girl37
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy63 gifted Gift162 to Girl37
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy63 gifted Gift99 to Girl37
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy35 and Girl38
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy35 gifted Gift193 to Girl38
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy35 gifted Gift35 to Girl38
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy35 gifted Gift162 to Girl38
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy35 gifted Gift99 to Girl38
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy35 gifted Gift37 to Girl38
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy35 gifted Gift36 to Girl38
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy35 gifted Gift88 to Girl38
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy35 gifted Gift61 to Girl38
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy60 and Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy60 gifted Gift193 to Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy60 gifted Gift35 to Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy60 gifted Gift162 to Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy60 gifted Gift99 to Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy60 gifted Gift37 to Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy60 gifted Gift36 to Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy60 gifted Gift88 to Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy60 gifted Gift61 to Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy60 gifted Gift21 to Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy60 gifted Gift138 to Girl39
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy72 and Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy72 gifted Gift193 to Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy72 gifted Gift35 to Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy72 gifted Gift162 to Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy72 gifted Gift99 to Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy72 gifted Gift37 to Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy72 gifted Gift36 to Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy72 gifted Gift88 to Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy72 gifted Gift61 to Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy72 gifted Gift21 to Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy72 gifted Gift138 to Girl40
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy150 and Girl41
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy150 gifted Gift193 to Girl41
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy150 gifted Gift35 to Girl41
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy150 gifted Gift162 to Girl41
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy47 and Girl42
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy47 gifted Gift193 to Girl42
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy47 gifted Gift35 to Girl42
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy47 gifted Gift162 to Girl42
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy47 gifted Gift99 to Girl42
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy47 gifted Gift37 to Girl42
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy47 gifted Gift36 to Girl42
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy47 gifted Gift88 to Girl42
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy47 gifted Gift61 to Girl42
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy47 gifted Gift21 to Girl42
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy24 and Girl43
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy24 gifted Gift193 to Girl43
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy24 gifted Gift35 to Girl43
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy24 gifted Gift162 to Girl43
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy24 gifted Gift99 to Girl43
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy48 and Girl44
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy48 gifted Gift193 to Girl44
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy48 gifted Gift35 to Girl44
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy48 gifted Gift162 to Girl44
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy48 gifted Gift99 to Girl44
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy48 gifted Gift37 to Girl44
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy48 gifted Gift36 to Girl44
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy48 gifted Gift88 to Girl44
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy48 gifted Gift61 to Girl44
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy48 gifted Gift21 to Girl44
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy38 and Girl45
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy38 gifted Gift193 to Girl45
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy38 gifted Gift35 to Girl45
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy38 gifted Gift162 to Girl45
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy38 gifted Gift99 to Girl45
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy38 gifted Gift37 to Girl45
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy38 gifted Gift36 to Girl45
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy38 gifted Gift88 to Girl45
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy23 and Girl46
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy23 gifted Gift193 to Girl46
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy23 gifted Gift35 to Girl46
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy23 gifted Gift162 to Girl46
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy99 and Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy99 gifted Gift193 to Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy99 gifted Gift35 to Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy99 gifted Gift162 to Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy99 gifted Gift99 to Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy99 gifted Gift37 to Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 9
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy99 gifted Gift36 to Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 11
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy99 gifted Gift88 to Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 12
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy99 gifted Gift61 to Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy99 gifted Gift21 to Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 13
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy99 gifted Gift138 to Girl47
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 14
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy26 and Girl48
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy26 gifted Gift193 to Girl48
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy26 gifted Gift35 to Girl48
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy26 gifted Gift162 to Girl48
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 8
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Exchange of Gifts between Boy20 and Girl49
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy20 gifted Gift193 to Girl49
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Essential
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 0
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Boy20 gifted Gift35 to Girl49
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Type : Luxury
+Feb 26, 2017 9:56:10 PM main.Gifting_Procedure gifting_technique
+INFO: Price : 6
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: thunder-blade-logger
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy43 Girl_name : Girl5  happiness : 1444
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy99 Girl_name : Girl47  happiness : 1388
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy25 Girl_name : Girl15  happiness : 1308
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy38 Girl_name : Girl45  happiness : 1214
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy30 Girl_name : Girl22  happiness : 1214
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy17 Girl_name : Girl18  happiness : 956
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy4 Girl_name : Girl1  happiness : 708
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy10 Girl_name : Girl4  happiness : 700
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy31 Girl_name : Girl16  happiness : 657
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy9 Girl_name : Girl13  happiness : 636
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy13 Girl_name : Girl24  happiness : 566
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy1 Girl_name : Girl9  happiness : 566
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy39 Girl_name : Girl23  happiness : 527
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy3 Girl_name : Girl2  happiness : 503
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy18 Girl_name : Girl7  happiness : 496
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy11 Girl_name : Girl17  happiness : 485
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy63 Girl_name : Girl37  happiness : 308
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy150 Girl_name : Girl41  happiness : 303
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy16 Girl_name : Girl36  happiness : 288
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy24 Girl_name : Girl43  happiness : 287
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy103 Girl_name : Girl25  happiness : 240
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy23 Girl_name : Girl46  happiness : 213
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy12 Girl_name : Girl34  happiness : 80
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy29 Girl_name : Girl21  happiness : 78
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy73 Girl_name : Girl32  happiness : 39
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy19 Girl_name : Girl20  happiness : 24
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy2 Girl_name : Girl10  happiness : 23
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy36 Girl_name : Girl29  happiness : 16
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy6 Girl_name : Girl8  happiness : 16
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy72 Girl_name : Girl40  happiness : 15
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: thunder-blade-logger
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy144 Girl_name : Girl12  happiness : 294
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy43 Girl_name : Girl5  happiness : 256
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy64 Girl_name : Girl27  happiness : 253
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy5 Girl_name : Girl3  happiness : 244
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy29 Girl_name : Girl21  happiness : 238
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy3 Girl_name : Girl2  happiness : 228
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy60 Girl_name : Girl39  happiness : 220
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy17 Girl_name : Girl18  happiness : 211
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy4 Girl_name : Girl1  happiness : 194
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy30 Girl_name : Girl22  happiness : 189
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy7 Girl_name : Girl11  happiness : 178
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy2 Girl_name : Girl10  happiness : 177
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy28 Girl_name : Girl33  happiness : 167
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy47 Girl_name : Girl42  happiness : 164
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy38 Girl_name : Girl45  happiness : 163
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy11 Girl_name : Girl17  happiness : 161
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy25 Girl_name : Girl15  happiness : 160
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy10 Girl_name : Girl4  happiness : 154
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy75 Girl_name : Girl19  happiness : 144
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy33 Girl_name : Girl28  happiness : 143
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy13 Girl_name : Girl24  happiness : 143
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy44 Girl_name : Girl6  happiness : 135
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy9 Girl_name : Girl13  happiness : 127
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy24 Girl_name : Girl43  happiness : 126
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy1 Girl_name : Girl9  happiness : 125
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy26 Girl_name : Girl48  happiness : 124
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy32 Girl_name : Girl26  happiness : 123
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy14 Girl_name : Girl30  happiness : 122
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy12 Girl_name : Girl34  happiness : 117
+Feb 26, 2017 9:56:10 PM main.calculate_happiness print_k_compatibility
+INFO: Boy_name: Boy36 Girl_name : Girl29  happiness : 116
