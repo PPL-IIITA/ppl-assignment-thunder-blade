@@ -1,0 +1,258 @@
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: thunder-blade-logger
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl1  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl1 is commited to Boy3
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl2  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl2 is commited to Boy4
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl3  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl4  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl4 is commited to Boy1
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl5  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl5 is commited to Boy12
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl6  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl6 is commited to Boy2
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl7  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl7 is commited to Boy5
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl8  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl8 is commited to Boy6
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl9  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl9 is commited to Boy51
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl10  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl10 is commited to Boy7
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl11  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl11 is commited to Boy8
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl12  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl12 is commited to Boy9
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl13  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl13 is commited to Boy10
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl14  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl14 is commited to Boy19
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl15  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl15 is commited to Boy14
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl16  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl16 is commited to Boy26
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl17  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl17 is commited to Boy13
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl18  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl18 is commited to Boy15
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl19  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl19 is commited to Boy16
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl20  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl20 is commited to Boy11
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl21  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl21 is commited to Boy28
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl22  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl22 is commited to Boy70
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl23  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl23 is commited to Boy18
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl24  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl24 is commited to Boy20
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl25  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl25 is commited to Boy35
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl26  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl26 is commited to Boy21
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl27  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl27 is commited to Boy61
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl28  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl28 is commited to Boy38
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl29  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl29 is commited to Boy22
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl30  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl30 is commited to Boy24
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl31  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl31 is commited to Boy29
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl32  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl32 is commited to Boy30
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl33  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl33 is commited to Boy32
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl34  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl34 is commited to Boy40
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl35  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl35 is commited to Boy33
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl36  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl36 is commited to Boy34
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl37  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl37 is commited to Boy36
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl38  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl38 is commited to Boy37
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl39  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl39 is commited to Boy17
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl40  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl40 is commited to Boy67
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl41  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl41 is commited to Boy127
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl42  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl42 is commited to Boy63
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl43  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl43 is commited to Boy157
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl44  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl44 is commited to Boy64
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl45  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl45 is commited to Boy68
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl46  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl46 is commited to Boy135
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl47  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl47 is commited to Boy66
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl48  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl48 is commited to Boy23
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl49  is looking for a boyfriend 
+Apr 10, 2017 2:11:53 AM main.main main
+INFO: Girl49 is commited to Boy71
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: thunder-blade-logger
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy71 Girl_name : Girl49  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy23 Girl_name : Girl48  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy66 Girl_name : Girl47  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy135 Girl_name : Girl46  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy68 Girl_name : Girl45  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy64 Girl_name : Girl44  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy157 Girl_name : Girl43  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy63 Girl_name : Girl42  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy127 Girl_name : Girl41  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy67 Girl_name : Girl40  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy17 Girl_name : Girl39  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy37 Girl_name : Girl38  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy36 Girl_name : Girl37  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy34 Girl_name : Girl36  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy33 Girl_name : Girl35  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy40 Girl_name : Girl34  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy32 Girl_name : Girl33  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy30 Girl_name : Girl32  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy29 Girl_name : Girl31  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy24 Girl_name : Girl30  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy22 Girl_name : Girl29  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy38 Girl_name : Girl28  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy61 Girl_name : Girl27  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy21 Girl_name : Girl26  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy35 Girl_name : Girl25  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy20 Girl_name : Girl24  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy18 Girl_name : Girl23  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy70 Girl_name : Girl22  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy28 Girl_name : Girl21  happiness : 0
+Apr 10, 2017 2:11:53 AM main.calculate_happiness print_k_happiest
+INFO: Boy_name: Boy11 Girl_name : Girl20  happiness : 0
