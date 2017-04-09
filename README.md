@@ -16,6 +16,10 @@ problem2 <br>
 $cd problem2/build/classes<br>
 $cd java main.main<br>
 
+problem3 <br>
+$cd problem3/build/classes<br>
+$cd java main.main<br>
+
 # Documentation
   Open index.html inside Documentation Folder
 
