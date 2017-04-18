@@ -15,19 +15,19 @@ public class Gifts extends Gifts_common{
     public Gifts(int price, int value) {
         super(price, value);
     }
-    public void Essenetial_Gifts(int price, int value)
+    public void Essenetial_Gifts(int price, int value)throws Exception
     {
     
     }
     
-    public void Luxury_Gifts(int price, int value, int luxury_rating,int difficulty)
+    public void Luxury_Gifts(int price, int value, int luxury_rating,int difficulty)throws Exception
     {
      
         this.luxury_rating = luxury_rating;
         this.difficulty = difficulty;
     }
     
-    public void Utility_Gifts(int price, int value, int uility_value, int utility_class)
+    public void Utility_Gifts(int price, int value, int uility_value, int utility_class)throws Exception
     {
         this.utility_value = utility_value;
         this.utility_class = utility_class;
