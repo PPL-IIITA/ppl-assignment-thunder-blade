@@ -26,7 +26,7 @@ class CSVUtils {
     }
 
     //https://tools.ietf.org/html/rfc4180
-    private static String followCVSformat(String value) {
+    private static String followCVSformat(String value)throws Exception {
 
         String result = value;
         if (result.contains("\"")) {
