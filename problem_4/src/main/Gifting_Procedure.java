@@ -11,7 +11,7 @@ import java.util.logging.SimpleFormatter;
 
 public class Gifting_Procedure {
     
-    public void gifting_technique(List<Couples> couples_list, List<Gifts> gifts){
+    public void gifting_technique(List<Couples> couples_list, List<Gifts> gifts)throws Exception{
         Logger logger = Logger.getLogger("MyLog");  
      FileHandler fh;  
      try {  
