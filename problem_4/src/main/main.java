@@ -145,7 +145,7 @@ public class main {
         return boys;
     }
     
-    private static Boys createBoys(String[] metadata)
+    private static Boys createBoys(String[] metadata)throws Exception
     {
         String name = metadata[0];
         int attractiveness = Integer.parseInt(metadata[1]);
@@ -184,7 +184,7 @@ public class main {
         return girls;
     }
     
-    private static Girls createGirls(String[] metadata)
+    private static Girls createGirls(String[] metadata)throws Exception
     {
         String name = metadata[0];
         int attractiveness = Integer.parseInt(metadata[1]);
@@ -217,7 +217,7 @@ public class main {
         return gifts;
     }
     
-    private static Gifts createGifts(String[] metadata)
+    private static Gifts createGifts(String[] metadata)throws Exception
     {
         String name = metadata[0];
         int price = Integer.parseInt(metadata[1]);
