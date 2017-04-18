@@ -198,7 +198,7 @@ public class main {
         return gifts;
     }
     
-    private static Gifts createGifts(String[] metadata)
+    private static Gifts createGifts(String[] metadata)throws Exception
     {
         String name = metadata[0];
         int price = Integer.parseInt(metadata[1]);
