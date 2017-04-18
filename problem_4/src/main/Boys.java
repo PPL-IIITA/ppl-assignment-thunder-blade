@@ -12,7 +12,7 @@ package main;
 public class Boys {
     String name, status, girlfriend, type;
     int attractiveness, girlfriend_budget, intelligence, happiness,minimum_attraction;
-    Boys(String name,int attractiveness,int girlfriend_budget, int intelligence, String type, int minimum_attraction)
+    Boys(String name,int attractiveness,int girlfriend_budget, int intelligence, String type, int minimum_attraction)throws Exception
     {
         this.name = name;
         this.attractiveness = attractiveness;
@@ -25,7 +25,7 @@ public class Boys {
         this.minimum_attraction = minimum_attraction;
     }
     
-    int happiness(String name, String type, int total_cost)
+    int happiness(String name, String type, int total_cost)throws Exception
     {
         int ans = 0;
         Girls girl = null;
