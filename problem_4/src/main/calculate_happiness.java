@@ -19,7 +19,7 @@ import java.util.logging.SimpleFormatter;
 public class calculate_happiness {
     
     
-    public void print_k_happiest(List<Couples>couples, int k)
+    public void print_k_happiest(List<Couples>couples, int k)throws Exception
     {
         Logger logger = Logger.getLogger("MyLog");  
      FileHandler fh;  
@@ -45,7 +45,7 @@ public class calculate_happiness {
                 break;
         }
     }
-    public void print_k_compatibility(List<Couples>couples, int k)
+    public void print_k_compatibility(List<Couples>couples, int k)throws Exception
     {
         Logger logger = Logger.getLogger("MyLog");  
      FileHandler fh;  
